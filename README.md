@@ -1,5 +1,7 @@
 # sigma_html_css_task2
 
+### GitHub pages: [Landing Page](https://yaroslavrick.github.io/sigma_html_css_task2/)
+
 ### Task link:
 
 https://docs.google.com/document/d/1MGjd3VoUN9cv-SqlThNG1rECxGFzxS1zB47e-4IwjO0/edit?usp=share_link
