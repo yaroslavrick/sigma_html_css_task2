@@ -1,0 +1,28 @@
+.interests-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    padding: 20px 0;
+}
+.interests-item {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.interests-item-container {
+    display: inline-flex;   
+}
+
+.interests-right-text {
+    font-weight: normal;
+    text-align: center;
+    margin-bottom:15px;
+}
+.interests-left-text {
+    font-weight: normal;
+    text-align: center;
+    margin-top: 15px;
+}
+.to-right {
+    justify-content:end;
+}
