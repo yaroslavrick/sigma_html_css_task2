@@ -1,8 +1,11 @@
 # sigma_html_css_task2
 
+### Task link:
+
 https://docs.google.com/document/d/1MGjd3VoUN9cv-SqlThNG1rECxGFzxS1zB47e-4IwjO0/edit?usp=share_link
 
-Maket:
+### Maket:
+
 https://app.moqups.com/13ZSpbbyd7F5l82NnbHDMfty8EtSJKYJ/view/page/aa9df7b72
 
 # Основні вимоги до вашої сторінки:
@@ -45,6 +48,5 @@ https://app.moqups.com/13ZSpbbyd7F5l82NnbHDMfty8EtSJKYJ/view/page/aa9df7b72
 
 В блоках старайтесь використовувати флекси або гріди.
 
-Обмеження для не новачків: пишемо лише на чистому CSS та чистому HTML. Для
-рівності всіх в правах, додаткові бібліотеки та пре-процесори
-можна.
+<u>Обмеження для не новачків</u>: пишемо лише на чистому CSS та чистому HTML. Для
+рівності всіх в правах, додаткові бібліотеки та пре-процесори **<u><mark>не можна</mark></u>**.
