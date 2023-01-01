@@ -6,7 +6,7 @@
 
 https://docs.google.com/document/d/1MGjd3VoUN9cv-SqlThNG1rECxGFzxS1zB47e-4IwjO0/edit?usp=share_link
 
-### Maket:
+### Макет:
 
 https://app.moqups.com/13ZSpbbyd7F5l82NnbHDMfty8EtSJKYJ/view/page/aa9df7b72
 
@@ -25,7 +25,9 @@ https://app.moqups.com/13ZSpbbyd7F5l82NnbHDMfty8EtSJKYJ/view/page/aa9df7b72
 ### Використання FlexBox, Grid – обов’язкове!
 
 Базовий шрифт - "Helvetica", bold
+
 Базовий колір заголовків - #0844a4;
+
 Колір звичайного тексту - #606060;
 
 ### Функціональність:
